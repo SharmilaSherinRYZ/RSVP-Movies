@@ -19,5 +19,6 @@ If you don't wish to perform the data loading part, you can directly download th
 
 # EXECUTIVE SUMMARY
 
-[ExecutiveSummary.pdf](https://github.com/SharmilaSherinRYZ/RSVP-Movies/files/14383011/ExecutiveSummary.pdf)
+![2024-02-23 (1)](https://github.com/SharmilaSherinRYZ/RSVP-Movies/assets/156569782/1c2796a8-35f3-4022-9fdd-6c167dd93728)
+
 
