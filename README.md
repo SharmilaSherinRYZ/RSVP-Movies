@@ -13,5 +13,8 @@ The first tab contains the ERD and the table details. Study that carefully and u
 Inspect each table given in the subsequent tabs and understand the features associated with each of them.
 Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
 If you don't wish to perform the data loading part, you can directly download the SQL script file containing all the commands and data required for the database creation and start directly with the querying.
-#ERD
-[IMDb+movies+Data+and+ERD+final.xlsx](https://github.com/SharmilaSherinRYZ/RSVP-Movies/files/14382769/IMDb%2Bmovies%2BData%2Band%2BERD%2Bfinal.xlsx)
+# ERD
+![2024-02-23](https://github.com/SharmilaSherinRYZ/RSVP-Movies/assets/156569782/2eeb7eaa-4345-49d1-9dce-c49d978468d5)
+
+
+
